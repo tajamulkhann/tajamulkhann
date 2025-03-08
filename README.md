@@ -42,7 +42,7 @@
 | [E-Books & Courses](https://tajamulkhan.gumroad.com/) | My Free e-books and notes on data science and AI |
 | [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning) | I developed multiple projects addressing real-world problems |
 | [Python for Data Analysis ](https://github.com/tajamulkhann/Exploratory-Data-Analysis) | Python projects focused on extracting insights from complex data |
-| [Python + DSA ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
+| [Python For All ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
 | [Big Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
 | [Time Series Analysis Projects ](https://github.com/tajamulkhann/Time-Series-Analysis) | Projects analyzing temporal data for trends and forecasting. |
 | [Statistical Analysis Projects ](https://github.com/tajamulkhann/Statistical-Analysis)  | Statistical projects uncovering patterns and relationships in data |
