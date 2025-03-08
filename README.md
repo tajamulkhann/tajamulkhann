@@ -45,7 +45,7 @@
 | [Azure Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
 | [Big Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
 | [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning) | I developed multiple projects addressing real-world problems |
-| [Exploratory Data Analysis Projects ](https://github.com/tajamulkhann/Exploratory-Data-Analysis) | Python projects focused on extracting insights from complex data |
+| [Exploratory Data Analysis Projects ](https://github.com/tajamulkhann/Exploratory-Data-Analysis-Projects) | Python projects focused on extracting insights from complex data |
 | [Time Series Analysis Projects ](https://github.com/tajamulkhann/Time-Series-Analysis) | Projects analyzing temporal data for trends and forecasting. |
 | [Statistical Analysis Projects ](https://github.com/tajamulkhann/Statistical-Analysis)  | Statistical projects uncovering patterns and relationships in data |
 | [Data Science Resources ](https://github.com/tajamulkhann/Data-Science-Resources) | Comprehensive notes simplifying key data science concepts |
