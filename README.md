@@ -41,7 +41,7 @@
 | ------------- | ------------- |
 | [Resources & Services](https://topmate.io/tajamulkhan) | My Free e-books and notes on data science and AI |
 | [Python For All ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
-| [Python For Data ](https://github.com/tajamulkhann/Python-For-Data-Analysis) | I store code for python for data here |
+| [Python For Data ](https://github.com/tajamulkhann/Python-For-Data) | I store code for python for data here |
 | [Azure Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
 | [Big Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
 | [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning) | I developed multiple projects addressing real-world problems |
