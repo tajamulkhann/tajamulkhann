@@ -4,6 +4,7 @@
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=19&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
   
   <a href="https://www.linkedin.com/in/tajamulkhann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/tajamulkhann_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://medium.com/@tajamulkhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
