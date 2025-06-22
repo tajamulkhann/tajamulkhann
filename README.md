@@ -35,6 +35,7 @@
 | Media  | Summary |
 | ------------- | ------------- |
 | [LinkedIn ](https://www.linkedin.com/in/tajamulkhann/) | I post data science resources, interview strategies and job opportunities |
+| [Substack ](https://tajamulk.substack.com/) | My blog covering data science tech and Artificial Intelligence |
 | [Medium ](https://medium.com/@tajamulkhan) | My data science blog, featuring articles on various data science topics |
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
 | [Newsletter](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
