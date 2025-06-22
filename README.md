@@ -15,9 +15,17 @@
 <div style="text-align: center;">
   <h3>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> 
-    <a href="https://tajamulkhann.github.io/">My Data Science Portfolio</a>
+    <a href="https://tajamul.dev.voyage/">My Data Science Portfolio</a>
   </h3>
 </div>
+
+<div style="text-align: center;">
+  <h3>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28px" style="vertical-align: middle; margin-right: 8px;" />
+    <a href="https://tajamulkhann.github.io/">Checkout my Website!</a>
+  </h3>
+</div>
+
 
 <h3 align="Center">
   Connect with me 
