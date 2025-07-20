@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tajamulk2/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=tajamulkhann&label=Profile%20views&color=0e75b6&style=flat" alt="tajamulkhann" /> </p>
   <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=24&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
   
