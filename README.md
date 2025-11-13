@@ -67,12 +67,22 @@
 | Fabric Engineer Guidance | Guidance for fabric engineering & career queries | [Book Now](https://topmate.io/tajamulkhan/1516477) |
 | LinkedIn Optimization | Transform your LinkedIn profile for maximum reach | [Book Now](https://topmate.io/tajamulkhan/1325462) |
 
-<h3 align="center">
-  Let's Crack Interviews Kit
+<h2 align="center">
+  MAANG-Ready Interview Kit
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-</h3>
+</h2>
 
 <img width="1280" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
+
+| Service | Description | Book Here |
+|---------|-------------|-----------|
+| Become Python Pro | Master Python With Complete Interview-Ready Resources | [Book Now](https://topmate.io/tajamulkhan/358169) |
+| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1066393) |
+| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Book Now](https://tajamulk.substack.com/) |
+| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Book Now](https://medium.com/@tajamulkhan) |
+| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Book Now](https://topmate.io/tajamulkhan/1576955) |
+| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Book Now](https://topmate.io/tajamulkhan/1516477) |
+| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Book Now](https://topmate.io/tajamulkhan/1325462) |
 
 
 
