@@ -100,7 +100,6 @@
     <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">
 </h3>
 
-
 | Topic  | Summary |
 | ------------- | ------------- |
 | [Resources & Services](https://topmate.io/tajamulkhan) | My Free e-books and notes on data science and AI |
