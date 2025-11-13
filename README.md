@@ -52,7 +52,7 @@
   </h3>
 </div>
 
-<h3 align="center">
+<h2 align="center">
   Mentorship Services
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
