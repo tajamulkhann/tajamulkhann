@@ -72,13 +72,8 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-<div align="center">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-right: 1px;" />
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 1px;" />
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 5px;" />
-  <img width="200" height="250" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 5px;" />
-  <img width="200" height="250" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 5px;" />
-</div>
+<img width="1280" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
+
 
 
 
