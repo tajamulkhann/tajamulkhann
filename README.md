@@ -123,12 +123,6 @@
 | Data Scientist Roadmap | [Download Here](https://topmate.io/tajamulkhan/1648004) |
 | AI Engineer Roadmap | [Download Here](https://topmate.io/tajamulkhan/1648021) |
 
-<h3 align="Center">
-  Open Source Work
-    <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">
-</h3>
-
-
 <h2 align="Center">
   Tech Stack
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   
@@ -155,7 +149,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="googlecloud logo"  />
 </h3>
 
-<h3 align="center"> 
+<h2 align="center"> 
   GitHub Stats 🥇
 </h3>
 
