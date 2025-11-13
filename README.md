@@ -128,26 +128,11 @@
     <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">
 </h3>
 
-| Topic  | Summary |
-| ------------- | ------------- |
-| [Python For All ](https://github.com/tajamulkhann/Python-For-All) | I store exercises and notes for python programming here |
-| [Python For Data ](https://github.com/tajamulkhann/Python-For-Data) | I store code for python for data here |
-| [Azure Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
-| [Big Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
-| [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning-Projects) | I developed multiple projects addressing real-world problems |
-| [Exploratory Data Analysis Projects ](https://github.com/tajamulkhann/Exploratory-Data-Analysis-Projects) | Python projects focused on extracting insights from complex data |
-| [Time Series Analysis Projects ](https://github.com/tajamulkhann/Time-Series-Analysis) | Projects analyzing temporal data for trends and forecasting. |
-| [Statistical Analysis Projects ](https://github.com/tajamulkhann/Statistical-Analysis)  | Statistical projects uncovering patterns and relationships in data |
-| [Data Science Resources ](https://github.com/tajamulkhann/Data-Science-Resources) | Comprehensive notes simplifying key data science concepts |
-| [Generative AI Projects ](https://github.com/tajamulkhann/Generative-AI) | Innovative projects exploring AI-generated content and models. |
-| [Visualisation Projects ](https://www.novypro.com/profile_about/tajamulkhan) | Interactive dashboards and visuals for impactful storytelling. |
-| [End to End Projects ](https://github.com/tajamulkhann/End-to-End-Deployment) | End to End deployment of data science projects |
 
-
-<h3 align="Center">
+<h2 align="Center">
   Tech Stack
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   
-</h3>
+</h2>
 
 <h3 align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
