@@ -3,6 +3,8 @@
   <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=24&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
   
+<div align="center">
+
 <a href="https://www.linkedin.com/in/tajamulkhann/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -25,13 +27,17 @@
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 <a href="https://github.com/tajamulkhann">
-  <img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <a href="https://medium.com/@tajamulkhan">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 <a href="https://www.youtube.com">
-   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+
+</div>
+
 
 <div style="text-align: center;">
   <h3>
