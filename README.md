@@ -71,7 +71,7 @@
 | LinkedIn Optimization | Transform your LinkedIn profile for maximum reach | [Book Now](https://topmate.io/tajamulkhan/1325462) |
 
 <h2 align="center">
-  MAANG-Ready Interview Kit
+  MAANG Ready Interview Kit
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
@@ -91,6 +91,8 @@
   My Ebooks for Data Science
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
+
+<img width="1280" height="260" alt="image" src="https://github.com/user-attachments/assets/a98bfcb2-5eb0-4693-a3fb-79c3759e23a1" />
 
 
 <h3 align="Center">
