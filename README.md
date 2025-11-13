@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tajamulkhann&label=Profile%20views&color=0e75b6&style=flat" alt="tajamulkhann" /> </p>
+
   <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=24&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
 
-<img width="1280" height="260" alt="Github Covers (2) (1)" src="https://github.com/user-attachments/assets/04c4c955-944d-47b2-a90b-ad3fe4db83df" />
+<img width="600" height="120" alt="image" src="https://github.com/user-attachments/assets/54ceb7f2-193e-4741-8eb5-43d76cab0106" />
 
 <div align="center">
 
