@@ -87,7 +87,10 @@
 | Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Book Now](https://topmate.io/tajamulkhan/1552913) |
 | Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Book Now](https://topmate.io/tajamulkhan/1734847) |
 
-
+<h2 align="center">
+  My Ebooks for Data Science
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+</h2>
 
 
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
