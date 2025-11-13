@@ -57,15 +57,16 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-| Service | Book Here |
-|--------|-----------|
-| Need Data Science & AI Guidance? | [Book Now](https://topmate.io/tajamulkhan/358169) |
-| Need Power BI Developer Guidance? | [Book Now](https://tajamulk.substack.com/) |
-| Data Science Mock Interview | [Book Now](https://medium.com/@tajamulkhan) |
-| Need MAANG-Level Portfolio? | [Book Now](https://topmate.io/tajamulkhan/1576955) |
-| Fabric Engineer Guidance | [Book Now](https://topmate.io/tajamulkhan/1516477) |
-| Need MAANG-Level Resume? | [Book Now](https://topmate.io/tajamulkhan/1066393) |
-| LinkedIn Optimization | [Book Now](https://topmate.io/tajamulkhan/1325462) |
+| Service | Description | Book Here |
+|--------|-------------|-----------|
+| Need Data Science & AI Guidance? | Ask me anything about Data Science | [Book Now](https://topmate.io/tajamulkhan/358169) |
+| Need MAANG-Level Resume? | Get a resume tailored for MAANG-level screening | [Book Now](https://topmate.io/tajamulkhan/1066393) |
+| Need Power BI Developer Guidance? | I can help you become a Power BI Developer | [Book Now](https://tajamulk.substack.com/) |
+| Data Science Mock Interview | Get real interview-style grilling & feedback | [Book Now](https://medium.com/@tajamulkhan) |
+| Need MAANG-Level Portfolio? | Build a world-class portfolio that gets noticed | [Book Now](https://topmate.io/tajamulkhan/1576955) |
+| Fabric Engineer Guidance | Guidance for fabric engineering & career queries | [Book Now](https://topmate.io/tajamulkhan/1516477) |
+| LinkedIn Optimization | Transform your LinkedIn profile for maximum reach | [Book Now](https://topmate.io/tajamulkhan/1325462) |
+
 
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
 | [Newsletter](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
