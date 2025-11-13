@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://medium.com/@tajamulkhan">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-
 <a href="https://www.kaggle.com/tajamulkhan">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
@@ -39,7 +35,12 @@
    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </a>
 
-  
+<a href="https://github.com/tajamulkhann">
+  <img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<a href="https://medium.com/@tajamulkhan">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
 
 <div style="text-align: center;">
   <h3>
