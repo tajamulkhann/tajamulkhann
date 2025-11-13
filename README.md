@@ -110,8 +110,8 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
-| Resource | Description | Book Here |
-|---------|-------------|-----------|
+| Resource | Description |
+|---------|-------------|
 | Daily Data Science Resources | [Follow Here](https://www.linkedin.com/in/tajamulkhann/) |
 | Daily Data Science Blogs | [Follow Here](https://www.instagram.com/tajamul.datascientist/) |
 | Daily Job Updates | [Join Here](https://www.whatsapp.com/channel/0029VaYs05jJkK7JKCesw42f) |
