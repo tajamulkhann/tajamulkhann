@@ -94,6 +94,15 @@
 
 <img width="1280" height="260" alt="Github Covers (8) (1)" src="https://github.com/user-attachments/assets/86c5e4f5-f0de-4cd8-a763-23f4390eda6f" />
 
+| Resource | Description | Book Here |
+|---------|-------------|-----------|
+| Become Python Pro | Master Python With Complete Interview-Ready Kit | [Book Now](https://topmate.io/tajamulkhan/1807819) |
+| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1808273) |
+| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Book Now](https://topmate.io/tajamulkhan/1808279) |
+| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Book Now](https://topmate.io/tajamulkhan/1808247) |
+| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Book Now](https://topmate.io/tajamulkhan/1410899) |
+| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Book Now](https://topmate.io/tajamulkhan/1552913) |
+| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Book Now](https://topmate.io/tajamulkhan/1734847) |
 
 <h3 align="Center">
   Open Source & Projects
