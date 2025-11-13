@@ -67,6 +67,20 @@
 | Fabric Engineer Guidance | Guidance for fabric engineering & career queries | [Book Now](https://topmate.io/tajamulkhan/1516477) |
 | LinkedIn Optimization | Transform your LinkedIn profile for maximum reach | [Book Now](https://topmate.io/tajamulkhan/1325462) |
 
+<h3 align="center">
+  Let's Crack Interviews Kit
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+</h3>
+
+<div align="center">
+  <img width="200" height="200" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-right: 1px;" />
+  <img width="200" height="200" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 1px;" />
+  <img width="200" height="200" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 5px;" />
+  <img width="200" height="250" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 5px;" />
+  <img width="200" height="250" src="https://github.com/user-attachments/assets/39dc85a7-d86e-4337-8135-ef02f9cdb14f" style="margin-left: 5px;" />
+</div>
+
+
 
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
 | [Newsletter](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
