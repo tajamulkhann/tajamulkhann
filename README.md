@@ -124,14 +124,13 @@
 | AI Engineer Roadmap | [Download Here](https://topmate.io/tajamulkhan/1648021) |
 
 <h3 align="Center">
-  Open Source & Projects
+  Open Source Work
     <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">
 </h3>
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Resources & Services](https://topmate.io/tajamulkhan) | My Free e-books and notes on data science and AI |
-| [Python For All ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
+| [Python For All ](https://github.com/tajamulkhann/Python-For-All) | I store exercises and notes for python programming here |
 | [Python For Data ](https://github.com/tajamulkhann/Python-For-Data) | I store code for python for data here |
 | [Azure Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
 | [Big Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
