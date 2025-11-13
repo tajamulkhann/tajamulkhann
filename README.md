@@ -92,7 +92,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
-<img width="1280" height="260" alt="image" src="https://github.com/user-attachments/assets/a98bfcb2-5eb0-4693-a3fb-79c3759e23a1" />
+<img width="1280" height="260" alt="Github Covers (8) (1)" src="https://github.com/user-attachments/assets/86c5e4f5-f0de-4cd8-a763-23f4390eda6f" />
 
 
 <h3 align="Center">
