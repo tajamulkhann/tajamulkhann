@@ -52,17 +52,21 @@
   </h3>
 </div>
 
-
-<h3 align="Center">
-  Connect with me 
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+<h3 align="center">
+  Mentorship Services
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-| Media  | Summary |
-| ------------- | ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/tajamulkhann/) | I post data science resources, interview strategies and job opportunities |
-| [Substack ](https://tajamulk.substack.com/) | My blog covering data science tech and Artificial Intelligence |
-| [Medium ](https://medium.com/@tajamulkhan) | My data science blog, featuring articles on various data science topics |
+| Service | Book Here |
+|--------|-----------|
+| Need Data Science & AI Guidance? | [Book Now](https://topmate.io/tajamulkhan/358169) |
+| Need a Power BI Developer? | [Book Now](https://tajamulk.substack.com/) |
+| Data Science Mock Interview | [Book Now](https://medium.com/@tajamulkhan) |
+| Need MAANG-Level Portfolio? | [Book Now](https://topmate.io/tajamulkhan/1576955) |
+| Fabric Engineer Guidance | [Book Now](https://topmate.io/tajamulkhan/1516477) |
+| Need MAANG-Level Resume? | [Book Now](https://topmate.io/tajamulkhan/1066393) |
+| LinkedIn Optimization | [Book Now](https://topmate.io/tajamulkhan/1325462) |
+
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
 | [Newsletter](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
