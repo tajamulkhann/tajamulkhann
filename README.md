@@ -64,9 +64,9 @@
 |--------|-------------|-----------|
 | Need Data Science & AI Guidance? | Ask me anything about Data Science | [Book Now](https://topmate.io/tajamulkhan/358169) |
 | Need MAANG-Level Resume? | Get a resume tailored for MAANG-level screening | [Book Now](https://topmate.io/tajamulkhan/1066393) |
-| Need Power BI Developer Guidance? | I can help you become a Power BI Developer | [Book Now](https://tajamulk.substack.com/) |
-| Data Science Mock Interview | Get real interview-style grilling & feedback | [Book Now](https://medium.com/@tajamulkhan) |
-| Need MAANG-Level Portfolio? | Build a world-class portfolio that gets noticed | [Book Now](https://topmate.io/tajamulkhan/1576955) |
+| Need Power BI Developer Guidance? | I can help you become a Power BI Developer | [Book Now](https://topmate.io/tajamulkhan/890502) |
+| Data Science Mock Interview | Get real interview-style grilling & feedback | [Book Now](https://topmate.io/tajamulkhan/1115012) |
+| Need MAANG-Level Portfolio? | Build a world-class portfolio that gets noticed | [Book Now](https://topmate.io/tajamulkhan/1066393) |
 | Fabric Engineer Guidance | Guidance for fabric engineering & career queries | [Book Now](https://topmate.io/tajamulkhan/1516477) |
 | LinkedIn Optimization | Transform your LinkedIn profile for maximum reach | [Book Now](https://topmate.io/tajamulkhan/1325462) |
 
