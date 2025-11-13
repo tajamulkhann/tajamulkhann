@@ -51,7 +51,7 @@
 <div style="text-align: center;">
   <h3>
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28px" style="vertical-align: middle; margin-right: 8px;" />
-    <a href="https://tajamulkhann.github.io/">Checkout my Website!</a>
+    <a href="https://topmate.io/tajamulkhan/">Checkout my Website!</a>
   </h3>
 </div>
 
