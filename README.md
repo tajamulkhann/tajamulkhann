@@ -77,7 +77,7 @@
 
 <img width="1280" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
 
-| Service | Description | Book Here |
+| Resource | Description | Book Here |
 |---------|-------------|-----------|
 | Become Python Pro | Master Python With Complete Interview-Ready Kit | [Book Now](https://topmate.io/tajamulkhan/1807819) |
 | Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1808273) |
