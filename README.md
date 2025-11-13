@@ -93,7 +93,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
-<img width="1280" height="260" alt="Github Covers (8) (1)" src="https://github.com/user-attachments/assets/86c5e4f5-f0de-4cd8-a763-23f4390eda6f" />
+<img width="1280" height="260" alt="image" src="https://github.com/user-attachments/assets/7d115b0a-781a-4ca7-85ac-21e1c1d3cc26" />
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
