@@ -86,6 +86,7 @@
 | Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Get It Here](https://topmate.io/tajamulkhan/1410899) |
 | Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Get It Here](https://topmate.io/tajamulkhan/1552913) |
 | Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
+| 50+ Power BI Projects | Build a Powerful Power BI Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
 
 <h2 align="center">
   My Ebooks for Data Science
