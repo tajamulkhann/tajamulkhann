@@ -79,13 +79,13 @@
 
 | Service | Description | Book Here |
 |---------|-------------|-----------|
-| Become Python Pro | Master Python With Complete Interview-Ready Resources | [Book Now](https://topmate.io/tajamulkhan/358169) |
-| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1066393) |
-| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Book Now](https://tajamulk.substack.com/) |
-| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Book Now](https://medium.com/@tajamulkhan) |
-| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Book Now](https://topmate.io/tajamulkhan/1576955) |
-| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Book Now](https://topmate.io/tajamulkhan/1516477) |
-| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Book Now](https://topmate.io/tajamulkhan/1325462) |
+| Become Python Pro | Master Python With Complete Interview-Ready Resources | [Book Now](https://topmate.io/tajamulkhan/1807819) |
+| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1808273) |
+| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Book Now](https://topmate.io/tajamulkhan/1808279) |
+| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Book Now](https://topmate.io/tajamulkhan/1808247) |
+| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Book Now](https://topmate.io/tajamulkhan/1410899) |
+| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Book Now](https://topmate.io/tajamulkhan/1552913) |
+| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Book Now](https://topmate.io/tajamulkhan/1734847) |
 
 
 
