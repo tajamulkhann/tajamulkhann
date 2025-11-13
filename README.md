@@ -35,7 +35,6 @@
 <a href="https://www.youtube.com">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
-
 </div>
 
 
@@ -128,11 +127,9 @@
   </a>
 </p>
 
-<h3 align="Center">
-  Let's keep in touch
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-</h3>
-  <a href="https://www.linkedin.com/in/tajamulkhann/">
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tajamulkhann/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/tajamul.datascientist/" target="_blank">
@@ -154,13 +151,15 @@
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 <a href="https://github.com/tajamulkhann">
-  <img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <a href="https://medium.com/@tajamulkhan">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 <a href="https://www.youtube.com">
-   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
-  
+</div>
+
 <div style="text-align: center;">
   <h3>
