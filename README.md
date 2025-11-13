@@ -4,7 +4,7 @@
   <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h3><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=24&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
 
-<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/54ceb7f2-193e-4741-8eb5-43d76cab0106" />
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/54ceb7f2-193e-4741-8eb5-43d76cab0106" />
 
 <div align="center">
 
@@ -60,7 +60,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-<img width="900" height="160" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
+<img width="700" height="160" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
 
 
 | Service | Description | Book Here |
@@ -78,7 +78,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
-<img width="1280" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
+<img width="700" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
@@ -96,7 +96,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
-<img width="1280" height="260" alt="image" src="https://github.com/user-attachments/assets/7d115b0a-781a-4ca7-85ac-21e1c1d3cc26" />
+<img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/7d115b0a-781a-4ca7-85ac-21e1c1d3cc26" />
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
