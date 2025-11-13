@@ -79,7 +79,7 @@
 
 | Service | Description | Book Here |
 |---------|-------------|-----------|
-| Become Python Pro | Master Python With Complete Interview-Ready Resources | [Book Now](https://topmate.io/tajamulkhan/1807819) |
+| Become Python Pro | Master Python With Complete Interview-Ready Kit | [Book Now](https://topmate.io/tajamulkhan/1807819) |
 | Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1808273) |
 | Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Book Now](https://topmate.io/tajamulkhan/1808279) |
 | Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Book Now](https://topmate.io/tajamulkhan/1808247) |
