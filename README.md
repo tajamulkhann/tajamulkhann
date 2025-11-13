@@ -60,7 +60,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-<img width="700" height="160" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
+<img width="800" height="160" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
 
 
 | Service | Description | Book Here |
@@ -96,7 +96,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
-<img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/7d115b0a-781a-4ca7-85ac-21e1c1d3cc26" />
+<img width="650" height="260" alt="image" src="https://github.com/user-attachments/assets/7d115b0a-781a-4ca7-85ac-21e1c1d3cc26" />
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
