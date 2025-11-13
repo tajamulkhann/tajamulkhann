@@ -106,21 +106,19 @@
 | Tableau Made Easy | Tableau from Zero to Mastery | [Get It Here](https://topmate.io/tajamulkhan/1642788) |
 
 <h2 align="center">
-  Road Maps & Job Help
+  Job Help & Road Maps
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h2>
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
-| Data Analyst Roadmap | [Download It Here](https://topmate.io/tajamulkhan/1424696) |
-| Data Analyst Roadmap | [Download It Here](https://topmate.io/tajamulkhan/1424696) |
-| Data Analyst Roadmap | [Download It Here](https://topmate.io/tajamulkhan/1424696) |
-| SQL for Data Science | Learn SQL from Zero to Hero | [Get It Here](https://topmate.io/tajamulkhan/1051745) |
-| Statistics for Data Science  | Statistics from Zero to Hero | [Get It Here](https://topmate.io/tajamulkhan/1113745) |
-| Python for Data Science | Mastering EDA and FE from scratch | [Get It Here](https://topmate.io/tajamulkhan/1357217) |
-| Power BI DAX | DAX from Zero to a powerful Developer | [Get It Here](https://topmate.io/tajamulkhan/1268277) |
-| Excel for Data Science | Excel from Easy to Hard level | [Get It Here](https://topmate.io/tajamulkhan/1265519) |
-| Tableau Made Easy | Tableau from Zero to Mastery | [Get It Here](https://topmate.io/tajamulkhan/1642788) |
+| Daily Data Science Resources | [Follow Here](https://www.linkedin.com/in/tajamulkhann/) |
+| Daily Data Science Blogs | [Follow Here](https://www.instagram.com/tajamul.datascientist/) |
+| Daily Job Updates | [Join Here](https://www.whatsapp.com/channel/0029VaYs05jJkK7JKCesw42f) |
+| Free Data Science Notes | [Join Here](https://t.me/tajamul_khan) |
+| Data Analyst Roadmap | [Download Here](https://topmate.io/tajamulkhan/1444458) |
+| Data Scientist Roadmap | [Download Here](https://topmate.io/tajamulkhan/1648004) |
+| AI Engineer Roadmap | [Download Here](https://topmate.io/tajamulkhan/1648021) |
 
 <h3 align="Center">
   Open Source & Projects
