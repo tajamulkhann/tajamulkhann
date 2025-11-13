@@ -60,6 +60,9 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
+<img width="1280" height="160" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
+
+
 | Service | Description | Book Here |
 |--------|-------------|-----------|
 | Need Data Science & AI Guidance? | Ask me anything about Data Science | [Book Now](https://topmate.io/tajamulkhan/358169) |
