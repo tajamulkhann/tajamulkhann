@@ -96,13 +96,13 @@
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
-| Become Python Pro | Master Python With Complete Interview-Ready Kit | [Book Now](https://topmate.io/tajamulkhan/1807819) |
-| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Book Now](https://topmate.io/tajamulkhan/1808273) |
-| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Book Now](https://topmate.io/tajamulkhan/1808279) |
-| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Book Now](https://topmate.io/tajamulkhan/1808247) |
-| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Book Now](https://topmate.io/tajamulkhan/1410899) |
-| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Book Now](https://topmate.io/tajamulkhan/1552913) |
-| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Book Now](https://topmate.io/tajamulkhan/1734847) |
+| Python for All | Master Python from Absolute Scratch | [Get It Here](https://topmate.io/tajamulkhan/1424696) |
+| SQL for Data Science | Learn SQL from Zero to Hero | [Get It Here](https://topmate.io/tajamulkhan/1051745) |
+| Statistics for Data Science  | Statistics from Zero to Hero | [Get It Here](https://topmate.io/tajamulkhan/1113745) |
+| Python for Data Science | Mastering EDA and FE from scratch | [Get It Here](https://topmate.io/tajamulkhan/1357217) |
+| Power BI DAX | DAX from Zero to a powerful Developer | [Get It Here](https://topmate.io/tajamulkhan/1268277) |
+| Excel for Data Science | Excel from Easy to Hard level | [Get It Here](https://topmate.io/tajamulkhan/1265519) |
+| Tableau Made Easy | Tableau from Zero to Mastery | [Get It Here](https://topmate.io/tajamulkhan/1642788) |
 
 <h3 align="Center">
   Open Source & Projects
