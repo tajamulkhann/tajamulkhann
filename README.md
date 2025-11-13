@@ -60,7 +60,7 @@
 | Service | Book Here |
 |--------|-----------|
 | Need Data Science & AI Guidance? | [Book Now](https://topmate.io/tajamulkhan/358169) |
-| Need a Power BI Developer? | [Book Now](https://tajamulk.substack.com/) |
+| Need Power BI Developer Guidance? | [Book Now](https://tajamulk.substack.com/) |
 | Data Science Mock Interview | [Book Now](https://medium.com/@tajamulkhan) |
 | Need MAANG-Level Portfolio? | [Book Now](https://topmate.io/tajamulkhan/1576955) |
 | Fabric Engineer Guidance | [Book Now](https://topmate.io/tajamulkhan/1516477) |
