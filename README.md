@@ -76,12 +76,9 @@
 <h2 align="center">
   MAANG Ready Interview Kit
  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
-
-
-
 </h2>
 
-<img width="700" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
+<img width="800" height="260" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
