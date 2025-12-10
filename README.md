@@ -44,7 +44,7 @@
 <div style="text-align: center;">
   <h3>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> 
-    <a href="https://tajamul.dev.voyage/">My Data Science Portfolio</a>
+    <a href="https://tajamulkhann.github.io">My Data Science Portfolio</a>
   </h3>
 </div>
 
