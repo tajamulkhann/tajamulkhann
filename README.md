@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/tajamulkhann/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/tajamul.datascientist/" target="_blank">
+<a href="https://www.instagram.com/tajamul.codes/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://topmate.io/tajamulkhan" target="_blank">
@@ -116,7 +116,7 @@
 | Resource | Description |
 |---------|-------------|
 | Daily Data Science Resources | [Follow Here](https://www.linkedin.com/in/tajamulkhann/) |
-| Daily Data Science Blogs | [Follow Here](https://www.instagram.com/tajamul.datascientist/) |
+| Daily Data Science Blogs | [Follow Here](https://www.instagram.com/tajamul.codes/) |
 | Daily Job Updates | [Join Here](https://www.whatsapp.com/channel/0029VaYs05jJkK7JKCesw42f) |
 | Free Data Science Notes | [Join Here](https://t.me/tajamul_khan) |
 | Data Analyst Roadmap | [Download Here](https://topmate.io/tajamulkhan/1444458) |
@@ -165,7 +165,7 @@
 <a href="https://www.linkedin.com/in/tajamulkhann/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/tajamul.datascientist/" target="_blank">
+<a href="https://www.instagram.com/tajamul.codes/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://topmate.io/tajamulkhan" target="_blank">
