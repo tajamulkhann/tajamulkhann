@@ -74,6 +74,25 @@
 | LinkedIn Optimization | Transform your LinkedIn profile for maximum reach | [Book Now](https://topmate.io/tajamulkhan/1325462) |
 
 <h2 align="center">
+  Best Data Science Kits
+ <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
+</h2>
+
+<img width="800" height="160" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
+
+| Resource | Description | Book Here |
+|---------|-------------|-----------|
+| Become Python Pro | Master Python With Complete Interview-Ready Kit | [Get It Here](https://topmate.io/tajamulkhan/1807819) |
+| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Get It Here](https://topmate.io/tajamulkhan/1808273) |
+| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Get It Here](https://topmate.io/tajamulkhan/1808279) |
+| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Get It Here](https://topmate.io/tajamulkhan/1808247) |
+| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Get It Here](https://topmate.io/tajamulkhan/1410899) |
+| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Get It Here](https://topmate.io/tajamulkhan/1552913) |
+| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
+| 50+ Power BI Projects | Build a Powerful Power BI Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
+| 50+ Machine Learning Projects | Build a Powerful AI ML Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
+
+<h2 align="center">
   MAANG Ready Interview Kit
  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
 </h2>
@@ -100,13 +119,18 @@
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
-| Python for All | Master Python from Absolute Scratch | [Get It Here](https://topmate.io/tajamulkhan/1424696) |
-| SQL for Data Science | Learn SQL from Zero to Hero | [Get It Here](https://topmate.io/tajamulkhan/1051745) |
-| Statistics for Data Science  | Statistics from Zero to Hero | [Get It Here](https://topmate.io/tajamulkhan/1113745) |
-| Python for Data Science | Mastering EDA and FE from scratch | [Get It Here](https://topmate.io/tajamulkhan/1357217) |
-| Power BI DAX | DAX from Zero to a powerful Developer | [Get It Here](https://topmate.io/tajamulkhan/1268277) |
-| Excel for Data Science | Excel from Easy to Hard level | [Get It Here](https://topmate.io/tajamulkhan/1265519) |
-| Tableau Made Easy | Tableau from Zero to Mastery | [Get It Here](https://topmate.io/tajamulkhan/1642788) |
+| Python for All | Build a solid Python foundation from the ground up | [Get It Here](https://topmate.io/tajamulkhan/1424696) |
+| SQL for Data Science | Go from SQL beginner to confident data querier | [Get It Here](https://topmate.io/tajamulkhan/1051745) |
+| Statistics for Data Science | Develop a strong statistical intuition for data work | [Get It Here](https://topmate.io/tajamulkhan/1113745) |
+| Python for Data Science | Deep dive into Exploratory Data Analysis and Feature Engineering | [Get It Here](https://topmate.io/tajamulkhan/1357217) |
+| Power BI DAX | Unlock the full power of DAX for advanced BI development | [Get It Here](https://topmate.io/tajamulkhan/1268277) |
+| Excel for Data Science | Take your Excel skills from basics to advanced data tasks | [Get It Here](https://topmate.io/tajamulkhan/1265519) |
+| Machine Learning Pro | Build real-world ML models from the ground up | [Get It Here](https://topmate.io/tajamulkhan/2001398) |
+| Deep Learning Pro | Master neural networks and deep learning fundamentals | [Get It Here](https://topmate.io/tajamulkhan/2003775) |
+| Gen AI Mastery | Gain hands-on expertise in Generative AI and modern LLMs | [Get It Here](https://topmate.io/tajamulkhan/2003782) |
+| NLP for Data Science | Understand and apply Natural Language Processing end-to-end | [Get It Here](https://topmate.io/tajamulkhan/2003783) |
+| Data Brick Gen AI | Become a certified Databricks AI champion | [Get It Here](https://topmate.io/tajamulkhan/2090787) |
+
 
 <h2 align="center">
   Job Help & Road Maps
