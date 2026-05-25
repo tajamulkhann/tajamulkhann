@@ -1,4 +1,3 @@
-<img width="1280" height="260" alt="Github Covers (2)" src="https://github.com/user-attachments/assets/2d660e96-99bc-4a8c-96cd-31239f156b4c" />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tajamulkhann&label=Profile%20views&color=0e75b6&style=flat" alt="tajamulkhann" /> </p>
 
