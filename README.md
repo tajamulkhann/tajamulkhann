@@ -74,7 +74,7 @@
 
 <h2 align="center">
   Best Data Science Kits
- <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
 </h2>
 
 <img width="800" height="160" alt="Github Covers (3)" src="https://github.com/user-attachments/assets/92d96845-2089-4795-b72d-91d04045f765" />
@@ -113,7 +113,7 @@
 
 <h2 align="center">
   My Ebooks for Data Science
-  <img src="https://i.giphy.com/YqFACC5oHsyy3l31k1.gif" height="25px" style="max-width:100%;">
+  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="1px" style="max-width:40">
 </h2>
 
 <img width="800" height="160" alt="Github Covers" src="https://github.com/user-attachments/assets/7a05280f-8798-471b-b0c3-dde0a4d171d5" />
