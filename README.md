@@ -100,16 +100,16 @@
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
-| Crack Data Analyst Interviews | [Get It Here](https://topmate.io/tajamulkhan/2115510) |
-| Crack AI ML Interviews | [Get It Here](https://topmate.io/tajamulkhan/1808273) |
-| Crack Python Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007139) |
-| Crack SQL Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007140) |
-| Crack Machine Learning Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007137) |
-| Crack Deep Learning Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007126) |
-| Crack Gen AI Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007133) |
-| Crack Statistics Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007142) |
-| Crack Time Series Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007143) |
-| Crack Power BI Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007138) |
+| Crack Data Analyst Interviews | Ace your Data Analyst interviews with confidence | [Get It Here](https://topmate.io/tajamulkhan/2115510) |
+| Crack AI ML Interviews | Walk into any AI & ML interview fully prepared | [Get It Here](https://topmate.io/tajamulkhan/1808273) |
+| Crack Python Interviews | Master Python interview questions from basics to advanced | [Get It Here](https://topmate.io/tajamulkhan/2007139) |
+| Crack SQL Interviews | Tackle any SQL interview question with ease | [Get It Here](https://topmate.io/tajamulkhan/2007140) |
+| Crack Machine Learning Interviews | Be fully equipped to land your next ML role | [Get It Here](https://topmate.io/tajamulkhan/2007137) |
+| Crack Deep Learning Interviews | Confidently answer deep learning questions at any level | [Get It Here](https://topmate.io/tajamulkhan/2007126) |
+| Crack Gen AI Interviews | Stand out in Generative AI interviews with expert prep | [Get It Here](https://topmate.io/tajamulkhan/2007133) |
+| Crack Statistics Interviews | Sharpen your statistical thinking for high-stakes interviews | [Get It Here](https://topmate.io/tajamulkhan/2007142) |
+| Crack Time Series Interviews | Master time series concepts and nail every interview round | [Get It Here](https://topmate.io/tajamulkhan/2007143) |
+| Crack Power BI Interviews | Demonstrate your Power BI expertise and land the role | [Get It Here](https://topmate.io/tajamulkhan/2007138) |
 
 <h2 align="center">
   My Ebooks for Data Science
