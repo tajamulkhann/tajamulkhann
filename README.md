@@ -1,3 +1,4 @@
+<img width="1280" height="260" alt="Github Covers (2)" src="https://github.com/user-attachments/assets/2d660e96-99bc-4a8c-96cd-31239f156b4c" />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tajamulkhann&label=Profile%20views&color=0e75b6&style=flat" alt="tajamulkhann" /> </p>
 
@@ -96,7 +97,7 @@
  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
 </h2>
 
-<img width="800" height="160" alt="Github Covers (1) (1)" src="https://github.com/user-attachments/assets/61080969-e6a3-4903-8b2a-8b5eaa837633" />
+<img width="800" height="160" alt="Github Covers (2)" src="https://github.com/user-attachments/assets/0492cfe1-4da9-4e5c-901a-9b318c0d373d" />
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
