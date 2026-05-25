@@ -62,7 +62,6 @@
 
 <img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
 
-
 | Service | Description | Book Here |
 |--------|-------------|-----------|
 | Need Data Science & AI Guidance? | Ask me anything about Data Science | [Book Now](https://topmate.io/tajamulkhan/358169) |
@@ -93,7 +92,7 @@
 | 50+ Machine Learning Projects | Build a Powerful AI ML Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
 
 <h2 align="center">
-  MAANG Ready Interview Kit
+  MAANG Ready Interview Preparation Resources
  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
 </h2>
 
@@ -101,14 +100,16 @@
 
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
-| Become Python Pro | Master Python With Complete Interview-Ready Kit | [Get It Here](https://topmate.io/tajamulkhan/1807819) |
-| Become AI Elite | Full AI/ML Kit To Crack Top-Tier Interviews | [Get It Here](https://topmate.io/tajamulkhan/1808273) |
-| Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Get It Here](https://topmate.io/tajamulkhan/1808279) |
-| Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Get It Here](https://topmate.io/tajamulkhan/1808247) |
-| Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Get It Here](https://topmate.io/tajamulkhan/1410899) |
-| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Get It Here](https://topmate.io/tajamulkhan/1552913) |
-| Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
-| 50+ Power BI Projects | Build a Powerful Power BI Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
+| Crack Data Analyst Interviews | [Get It Here](https://topmate.io/tajamulkhan/2115510) |
+| Crack AI ML Interviews | [Get It Here](https://topmate.io/tajamulkhan/1808273) |
+| Crack Python Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007139) |
+| Crack SQL Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007140) |
+| Crack Machine Learning Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007137) |
+| Crack Deep Learning Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007126) |
+| Crack Gen AI Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007133) |
+| Crack Statistics Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007142) |
+| Crack Time Series Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007143) |
+| Crack Power BI Interviews | [Get It Here](https://topmate.io/tajamulkhan/2007138) |
 
 <h2 align="center">
   My Ebooks for Data Science
