@@ -86,7 +86,8 @@
 | Become Power BI Wiz | Learn Power BI With Job-Focused Case Studies | [Get It Here](https://topmate.io/tajamulkhan/1808279) |
 | Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Get It Here](https://topmate.io/tajamulkhan/1808247) |
 | Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Get It Here](https://topmate.io/tajamulkhan/1410899) |
-| Data Science Interview Prep Kit | Structured Prep To Ace DS Interviews Confidently | [Get It Here](https://topmate.io/tajamulkhan/1552913) |
+| Data Science Resume Template | Get Shortlisted at MAANG & Fortune | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
+
 | Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
 | 50+ Power BI Projects | Build a Powerful Power BI Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
 | 50+ Machine Learning Projects | Build a Powerful AI ML Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
@@ -130,8 +131,7 @@
 | Deep Learning Pro | Master neural networks and deep learning fundamentals | [Get It Here](https://topmate.io/tajamulkhan/2003775) |
 | Gen AI Mastery | Gain hands-on expertise in Generative AI and modern LLMs | [Get It Here](https://topmate.io/tajamulkhan/2003782) |
 | NLP for Data Science | Understand and apply Natural Language Processing end-to-end | [Get It Here](https://topmate.io/tajamulkhan/2003783) |
-| Data Brick Gen AI | Become a certified Databricks AI champion | [Get It Here](https://topmate.io/tajamulkhan/2090787) |
-
+| Databricks Gen AI Engineer | Become a certified Databricks AI champion | [Get It Here](https://topmate.io/tajamulkhan/2090787) |
 
 <h2 align="center">
   Job Help & Road Maps
