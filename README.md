@@ -87,7 +87,6 @@
 | Become SQL Champ | SQL Concepts + Interview Questions To Excel | [Get It Here](https://topmate.io/tajamulkhan/1808247) |
 | Data Science Cheat Sheets | Essential DS Cheat Sheets for Quick Revision | [Get It Here](https://topmate.io/tajamulkhan/1410899) |
 | Data Science Resume Template | Get Shortlisted at MAANG & Fortune | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
-
 | Resume Template + 25,000 HR Emails | High-Impact Resume + Verified HR Outreach List | [Get It Here](https://topmate.io/tajamulkhan/1734847) |
 | 50+ Power BI Projects | Build a Powerful Power BI Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
 | 50+ Machine Learning Projects | Build a Powerful AI ML Portfolio | [Get It Here](https://topmate.io/tajamulkhan/1672266) |
