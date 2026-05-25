@@ -113,7 +113,7 @@
 
 <h2 align="center">
   My Ebooks for Data Science
-  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="1px" style="max-width:40">
+  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
 </h2>
 
 <img width="800" height="160" alt="Github Covers" src="https://github.com/user-attachments/assets/7a05280f-8798-471b-b0c3-dde0a4d171d5" />
