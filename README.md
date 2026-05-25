@@ -93,7 +93,7 @@
 
 <h2 align="center">
   MAANG Ready Interview Preparation Resources
- <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="35">
+ <img src="https://i.giphy.com/YqFACC5oHsyy3l31k1.gif" width="35">
 </h2>
 
 <img width="800" height="160" alt="Github Covers (2)" src="https://github.com/user-attachments/assets/0492cfe1-4da9-4e5c-901a-9b318c0d373d" />
@@ -113,7 +113,7 @@
 
 <h2 align="center">
   My Ebooks for Data Science
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  <img src="https://i.giphy.com/YqFACC5oHsyy3l31k1.gif" height="25px" style="max-width:100%;">
 </h2>
 
 <img width="800" height="160" alt="Github Covers" src="https://github.com/user-attachments/assets/7a05280f-8798-471b-b0c3-dde0a4d171d5" />
