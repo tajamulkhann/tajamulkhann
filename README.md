@@ -118,9 +118,6 @@
 
 <img width="800" height="160" alt="Github Covers" src="https://github.com/user-attachments/assets/7a05280f-8798-471b-b0c3-dde0a4d171d5" />
 
-
-<img width="800" height="160" alt="image" src="https://github.com/user-attachments/assets/7d115b0a-781a-4ca7-85ac-21e1c1d3cc26" />
-
 | Resource | Description | Book Here |
 |---------|-------------|-----------|
 | Python for All | Build a solid Python foundation from the ground up | [Get It Here](https://topmate.io/tajamulkhan/1424696) |
