@@ -4,7 +4,7 @@
   <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h3><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=24&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
 
-<img width="800" height="160" alt="Github Covers (4)" src="https://github.com/user-attachments/assets/b5fecbd1-a74d-46c7-a2c8-e2276f0dadf7" />
+<img width="800" height="160" alt="Github Covers (5)" src="https://github.com/user-attachments/assets/b9b5b478-957e-4a01-be92-6252898efa74" />
 
 <div align="center">
 
@@ -60,7 +60,7 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/f9b3a69d-da5c-4230-b23a-787df5a4e5e4" />
+<img width="800" height="100" alt="2026" src="https://github.com/user-attachments/assets/4e169eeb-4e60-4886-8019-803377ef2873" />
 
 | Service | Description | Book Here |
 |--------|-------------|-----------|
