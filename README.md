@@ -60,7 +60,8 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
-<img width="800" height="100" alt="2026" src="https://github.com/user-attachments/assets/4e169eeb-4e60-4886-8019-803377ef2873" />
+<img width="800" height="100" alt="2026 (1)" src="https://github.com/user-attachments/assets/26f2c2e8-a726-424a-ba6d-ce6f4431a6f5" />
+
 
 | Service | Description | Book Here |
 |--------|-------------|-----------|
@@ -180,7 +181,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tajamulkhann&theme=darkhub" alt="GitHub Trophies" />
 </p>
-
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
