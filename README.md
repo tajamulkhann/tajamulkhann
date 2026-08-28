@@ -51,7 +51,7 @@
 <div style="text-align: center;">
   <h3>
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28px" style="vertical-align: middle; margin-right: 8px;" />
-    <a href="https://topmate.io/tajamulkhan/">Checkout Best Data Science Resources!</a>
+    <a href="https://topmate.io/tajamulkhan/">Checkout Best Data Science Resources</a>
   </h3>
 </div>
 
