@@ -38,7 +38,7 @@
 <a href="https://medium.com/@tajamulkhan">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
-<a href="https://www.youtube.com">
+<a href="https://youtube.com/@TajamulCodes">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 </div>
@@ -219,7 +219,7 @@
 <a href="https://medium.com/@tajamulkhan">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
-<a href="https://www.youtube.com">
+<a href="https://youtube.com/@TajamulCodes">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 </div>
